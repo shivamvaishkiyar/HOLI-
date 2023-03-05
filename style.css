@@ -1,0 +1,119 @@
+
+
+h1{
+    font-family:cursive;
+    color: red;
+    background-color: aqua;
+    text-align: center;
+      
+    }
+    h2{
+      font-family:cursive;
+      font-size: 35px;
+     color: chartreuse;
+      border-color: crimson;
+    }
+    h3{
+      font-family: cursive;
+      font-size: 35px;
+      color: chocolate;
+      border-color: dodgerblue;
+    }
+    h4{
+        font-family: cursive;
+        font-size: 35px;
+        color: goldenrod;
+        border-color: yellowgreen;
+    }
+    h5{
+        font-family: cursive;
+        font-size: 35px;
+        color: violet;
+        border-color: wheat;
+    }
+   
+    img{
+       
+        border-top-left-radius: 84px;
+        width:500px;
+        height: 350px;
+        border-bottom-left-radius: 33px;
+        justify-content: center;
+        align-items: center;
+        
+      }
+    
+    
+    .found
+    {
+      border: 10px solid lightgrey;
+      border-radius: 18px;
+      border-bottom-left-radius: 53px;
+     border-bottom-color: aqua;
+      border-left-color: blue;
+      border-top-color: chartreuse;
+      border-right-color: darkorchid;
+      border-top-left-radius: 94px;
+      width:499px;
+      height:350px;
+      
+    
+    }
+    .notfound
+    {
+        border: 10px solid lightgrey;
+        border-radius: 18px;
+        border-bottom-left-radius: 53px;
+       border-bottom-color: rgb(0, 255, 42);
+        border-left-color: rgb(245, 70, 122);
+        border-top-color: rgb(255, 102, 0);
+        border-right-color: rgb(255, 7, 7);
+        border-top-left-radius: 94px;
+        width:499px;
+        height:350px;
+    
+    }
+    .everfound
+    {
+        border: 10px solid lightgrey;
+        border-radius: 18px;
+        border-bottom-left-radius: 53px;
+       border-bottom-color: aqua;
+        border-left-color: blue;
+        border-top-color: chartreuse;
+        border-right-color: darkorchid;
+        border-top-left-radius: 94px;
+        width:499px;
+        height:350px;
+    
+    }
+    .neverfound
+    {
+        border: 10px solid lightgrey;
+        border-radius: 18px;
+        border-bottom-left-radius: 53px;
+       border-bottom-color: aqua;
+        border-left-color: blue;
+        border-top-color: chartreuse;
+        border-right-color: darkorchid;
+        border-top-left-radius: 94px;
+        width:499px;
+        height:350px;
+    
+    }
+    
+    .counter:hover text{
+        color: rgb(201, 12, 116);
+            }
+    .fry:hover text{
+         color: rgb(1, 221, 236);
+            }
+    .cry:hover text{
+                color: rgb(0, 255, 21);
+                   }
+    .try:hover text{
+                    color: rgb(255, 145, 0);
+                       }
+   
+    
+    
